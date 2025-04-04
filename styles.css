@@ -1,1 +1,8 @@
 /* Do not add any css, this is a bootstrap only assignment  */
+<div class="item first-slide">
+    <img src="path/to/image1.jpg" alt="First slide">
+    <div class="carousel-caption">
+        <h3>Slide 1</h3>
+        <p>First slide content</p>
+    </div>
+</div>
